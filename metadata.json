@@ -1,0 +1,6 @@
+{
+  "name": "Husnain Resort Mansehra",
+  "description": "Experience nature and peaceful hospitality at Husnain Resort, Mansehra, KPK. Premium accommodations, serene gardens, and easy access to Hazara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
